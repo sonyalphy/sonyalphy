@@ -12,7 +12,7 @@
 <!-- 🧠 ABOUT ME -->
 ### 💼 About Me
 
-Hi! I'm Sony — a Bangalore-based Software Development Engineer with **6.5+ years** of experience delivering enterprise-grade software across healthcare, AI, and manufacturing.
+Hi! I'm Sony - a Bangalore-based Software Development Engineer with **7+ years** of experience delivering enterprise-grade software across healthcare, AI, and manufacturing.
 
 I build full-stack solutions using:
 - Java (Spring Boot) for robust backends  
