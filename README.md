@@ -102,7 +102,7 @@ Currently leading engineering efforts for **Philips CT-Eye**, and mentoring engi
 
 - 🎙️ Speaker at GHCI & AYIMUN Malaysia  
 - 🧑‍🏫 Mentors devs & students in Java + React  
-- 🎶 Passionate Karnatic music teacher  
+- 🎶 Passionate Karnatic music learner 
 - 🌱 Advocate for women in tech & community growth
 
 ---
