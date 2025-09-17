@@ -1,7 +1,7 @@
 <!-- 🎯 HEADER / HERO SECTION -->
 <h1 align="center">Hey there, I'm Sony Joy 👋</h1>
 <p align="center">
-  <i>Cloud Full-Stack Engineer | Java & React Specialist | AWS Certified | 7 YOE</i><br/>
+  <i>Cloud Full-Stack Engineer | Java & React Specialist | AWS Certified | Building AI integrated Apps | 7 YOE</i><br/>
   <a href="https://linkedin.com/in/sonyjoyalphonsa">LinkedIn</a> • 
   <a href="https://github.com/sonyalphy">GitHub</a> • 
   <a href="https://medium.com/@scholarsonyalphy2022">Medium</a>
