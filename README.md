@@ -1,7 +1,7 @@
 <!-- 🎯 HEADER / HERO SECTION -->
 <h1 align="center">Hey there, I'm Sony Joy 👋</h1>
 <p align="center">
-  <i>Cloud Full-Stack Engineer | Java & React Specialist | AWS Certified | Building AI integrated Apps | 7 YOE</i><br/>
+  <i>Cloud Full-Stack Engineer | Java & React Specialist | AWS Certified | Building AI integrated Apps | 7.3 YOE</i><br/>
   <a href="https://linkedin.com/in/sonyjoyalphonsa">LinkedIn</a> • 
   <a href="https://github.com/sonyalphy">GitHub</a> • 
   <a href="https://medium.com/@scholarsonyalphy2022">Medium</a>
@@ -12,10 +12,10 @@
 <!-- 🧠 ABOUT ME -->
 ### 💼 About Me
 
-Hi! I'm Sony - a Bangalore-based Software Development Engineer with **7+ years** of experience delivering enterprise-grade software across healthcare, AI, and manufacturing.
+Hi! I'm Sony - a Bangalore-based Lead Software Development Engineer with **7+ years** of experience delivering enterprise-grade software across healthcare, AI, and manufacturing.
 
 I build full-stack solutions using:
-- Java (Spring Boot) for robust backends  
+- Java (Spring Boot) and NodeJS for robust backends  
 - ReactJS for modern, dynamic UIs  
 - AWS (Lambda, S3, CloudFormation) for scalable cloud infra  
 
